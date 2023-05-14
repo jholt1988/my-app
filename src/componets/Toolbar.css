@@ -1,0 +1,9 @@
+.toolbar{
+    display: flex;
+    background-color: black;
+    color: #159bde;
+    width: auto;
+    justify-content: space-between;
+    outline: 4px,solid,#159bde;
+}
+
